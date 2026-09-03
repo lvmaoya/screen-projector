@@ -4,6 +4,24 @@
 
 一个轻量的原生 macOS 应用，通过 ADB + scrcpy 将设备低延迟投屏到 Mac，并支持键盘、鼠标控制。
 
+## 界面示例
+
+下面是当前版本的界面截图：
+
+![投屏页面](example/Snipaste_2026-09-03_15-36-45.png)
+
+![连接页面](example/Snipaste_2026-09-03_15-37-13.png)
+
+![设置页面](example/Snipaste_2026-09-03_15-37-18.png)
+
+![关于页面](example/Snipaste_2026-09-03_15-37-22.png)
+
+## 支持范围
+
+- 支持 macOS 作为接收端，支持开启 ADB 调试的 Android 手机和平板设备。
+- 当前不支持纯血鸿蒙（HarmonyOS NEXT）设备。旧版带 Android 兼容层的 HarmonyOS 设备可能可以使用，取决于设备是否提供 ADB。
+- 当前不支持 iPhone 和 iPad。Apple 设备请使用 macOS 自带的“iPhone 镜像”或 AirPlay。
+
 ## 使用
 
 1. 打开 `dist` 中的“Mac投屏.app”，Mac 不需要安装 Homebrew、ADB 或 scrcpy。
