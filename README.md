@@ -1,5 +1,7 @@
 # Mac投屏
 
+本项目以 MIT License 开源。应用内置的 scrcpy 和 Android Platform Tools 分别遵循其原项目许可证，相关声明随应用包提供。
+
 一个轻量的原生 macOS 应用，通过 ADB + scrcpy 将设备低延迟投屏到 Mac，并支持键盘、鼠标控制。
 
 ## 使用
