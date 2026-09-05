@@ -8,13 +8,13 @@
 
 下面是当前版本的界面截图：
 
-![投屏页面](example/Snipaste_2026-09-03_15-36-45.png)
+![投屏页面](example/Snipaste_2026-09-05_22-39-49.png)
 
-![连接页面](example/Snipaste_2026-09-03_15-37-13.png)
+![连接页面](example/Snipaste_2026-09-05_22-40-27.png)
 
-![设置页面](example/Snipaste_2026-09-03_15-37-18.png)
+![设置页面](example/Snipaste_2026-09-05_22-41-08.png)
 
-![关于页面](example/Snipaste_2026-09-03_15-37-22.png)
+![关于页面](example/Snipaste_2026-09-05_22-41-23.png)
 
 ## 支持范围
 
